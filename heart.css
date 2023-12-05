@@ -63,7 +63,7 @@ section h2 {
 
 }
 
-@media (max-width:525px) {
+@media (max-width:768px) {
     section h2 {
         font-size: 3rem;
         bottom: 5%;
